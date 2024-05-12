@@ -1,6 +1,4 @@
-# gitleaks
-
-## Instructions
+## Usage instructions
 
  1. Add the pre-commit-hook.sh file to your project directory
 
